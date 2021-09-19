@@ -2,5 +2,8 @@
 Software de control de ventas
 
 ## Integrantes:
-Catherin Londoño R. Desarrollador
-Aidiber Aranzazu T. Analista
+Catherin Londoño R. - Desarrollador
+
+Aidiber Aranzazu T. - Analista
+
+Laura Vanessa Tamayo P. - Product Owner
