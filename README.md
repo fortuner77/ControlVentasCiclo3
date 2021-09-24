@@ -9,3 +9,5 @@ Aidiber Aranzazu T. - Analista
 Laura Vanessa Tamayo P. - Product Owner
 
 Cesar Aldana P. - Scrum Master
+
+Walter Allen G. - Administrador de BD
